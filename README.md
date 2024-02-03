@@ -1,2 +1,4 @@
-# numan
-Numerical Analysis Examples
+# Numerical Analysis Course Material
+
+* examples
+* assignments
